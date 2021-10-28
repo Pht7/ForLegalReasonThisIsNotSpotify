@@ -14,7 +14,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+This is an Android based application which uses Spotify's API to call songs and lyrics.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -33,12 +33,21 @@ Original App Design Project - README Template
 
 * Users are able to register in the app
 * Users are able to login and stay logged in after closing the app
-* Users are able to naviagate using the bottom naviagation bar between the following 
+* Users are able to log out of the app
+* Users are able to naviagate using the bottom naviagation bar between the following (Feed, Songs, Profile)
+* Users are able to generate and view random songs using Spotify's API
+* Users are able to click on their profile see their own name, profile picture and liked post
+* Users are able to put a song of their liking on their own feed
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users are able to share a song with others using a share button
+* Users are able to like , dislike a post feed
+* Users are able to comment on a post feed
+* Users are able to generate based on genre 
+* Users are able to generate based on Artist
+* Users are able to generate based on a top list (50)
+* Users are able to view lyrics of the songs 
 
 ### 2. Screen Archetypes
 
