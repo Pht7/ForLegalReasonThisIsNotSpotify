@@ -31,8 +31,9 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users are able to register in the app
+* Users are able to login and stay logged in after closing the app
+* Users are able to naviagate using the bottom naviagation bar between the following 
 
 **Optional Nice-to-have Stories**
 
