@@ -18,12 +18,12 @@ This is an Android based application which uses Spotify's API to call songs and 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social Network / Music
+- **Mobile:** The app is primarily developed for mobile use. It can be also developed to be a web application in the future
+- **Story:** People are being connected based on what kind of music they like. User's can like and share music which is being reflected in their own profile.
+- **Market:** Any individual who loves sharing and listening to music and also open to seeing what other people are listening to.
+- **Habit:** This app can be used depending on how often a user listen to music or share them.
+- **Scope:** This is a music sharing app where people are able to listen and share their favorite music and artists.
 
 ## Product Spec
 
@@ -51,29 +51,30 @@ This is an Android based application which uses Spotify's API to call songs and 
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login  
+* Register  
+   * Users can register their own account  
+* Profile Screen  
+   * Upon logging in and registering, the first page the user will see is their profile page where it lists their favorite music  
+* Player Screen  
+   * Users can play their selected song or random music depending on artist and genre
+* Feed Screen
+   * Users can see which songs other users liked
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Profile
+* Feed
+* Player
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login -> Profile
+   * Register -> Profile if no login information available yet
+* Profile / Feed -> Player [Selected Songs]
+
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
