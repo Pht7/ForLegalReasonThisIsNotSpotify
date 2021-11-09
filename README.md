@@ -1,10 +1,10 @@
-# ForLegalReasonsThisIsNotSpotify
+# Spotigram
 A music application which will randomly generate songs using Spotify's API and play it back for you.
 
 Original App Design Project - README Template
 ===
 
-# ForLegalReasonsThisIsNotSpotify
+# Spotigram
 
 ## Table of Contents
 1. [Overview](#Overview)
