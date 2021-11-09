@@ -80,7 +80,7 @@ This is an Android based application which uses Spotify's API to call songs and 
 <img src="lofiwire.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="hifiwire.png" width=600>
+<img src="hifiwiree.png" width=600>
 
 ### [BONUS] Interactive Prototype
 <img src="wireframe.gif" width=600>
