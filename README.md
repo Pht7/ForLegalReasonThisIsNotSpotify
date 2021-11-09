@@ -77,12 +77,13 @@ This is an Android based application which uses Spotify's API to call songs and 
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="lofiwire.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="hifiwire.png" width=600>
 
 ### [BONUS] Interactive Prototype
+<img src="wireframe.gif" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
