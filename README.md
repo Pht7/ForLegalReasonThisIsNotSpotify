@@ -82,7 +82,10 @@ This is an Android based application which uses Spotify's API to call songs and 
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+| Property  | Type | Description | 
+| ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell |
+| Content Cell  | Content Cell  | Content Cell |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
