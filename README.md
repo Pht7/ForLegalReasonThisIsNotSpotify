@@ -84,8 +84,18 @@ This is an Android based application which uses Spotify's API to call songs and 
 ### Models
 | Property  | Type | Description | 
 | ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell |
-| Content Cell  | Content Cell  | Content Cell |
+| username  | string  | username of user |
+| password  | string | password of user will be hased |
+| email  | string | email of user to verify |
+|  songUUID | string | song ID |
+|  artistUUID | string | artist ID |
+|  previewLink | string | link to spotify api preview |
+| songPhoto  | string | will link to a photo |
+| feedUUID  | string | random number and string generated to store feed |
+| feedDesc  | string | content of feed |
+| feedLike  | int | number of likes |
+| createdAt  | DateTime | when post was created |
+| commentCount  | int | number of comments per feed |
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
